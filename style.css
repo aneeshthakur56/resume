@@ -1,0 +1,81 @@
+nav {
+    background-color: #4f5963;
+    padding: 10px 0;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+li {
+    display: inline;
+    margin: 0 15px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+a:hover {
+    color: #f0f0f0; 
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    background-color: #545454;
+}
+
+.container {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+p{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+h2{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+ h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.left-column {
+    width: 30%;
+    float: left;
+}
+
+.right-column {
+    width: 70%;
+    float: right;
+}
+.skills, .hobbies, .certificates {
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+ h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
+.chat h3{
+    margin-left: 220px;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.chat p {
+    margin-left: 220px;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+  
